@@ -1,0 +1,25 @@
+{
+  "name": "point-on-line",
+  "version": "1.0.0",
+  "description": "Test whether a point is on a line or LineString",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veltman/point-on-line.git"
+  },
+  "keywords": [
+    "geometry",
+    "geojson",
+    "linestring",
+    "line"
+  ],
+  "author": "Noah Veltman (@veltman)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veltman/point-on-line/issues"
+  },
+  "homepage": "https://github.com/veltman/point-on-line#readme"
+}
